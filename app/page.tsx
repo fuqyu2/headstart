@@ -160,10 +160,3 @@ export default function Home() {
     </div>
   );
 }
-```
-
-After you paste and save, run:
-```
-git add .
-git commit -m "Add before after section"
-git push
